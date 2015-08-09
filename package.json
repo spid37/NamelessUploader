@@ -19,6 +19,7 @@
   "dependencies": {
     "MD5": "^1.3.0",
     "aws-sdk": "^2.1.44",
+    "bluebird": "^2.9.34",
     "mmmagic": "^0.3.15"
   }
 }
