@@ -1,0 +1,24 @@
+{
+  "name": "namless_uploader",
+  "version": "0.0.1",
+  "description": "Wrapper for aws s3 upload",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spid37/NamelessUploader.git"
+  },
+  "author": "Nicholas Terrell",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/spid37/NamelessUploader/issues"
+  },
+  "homepage": "https://github.com/spid37/NamelessUploader#readme",
+  "dependencies": {
+    "MD5": "^1.3.0",
+    "aws-sdk": "^2.1.44",
+    "mmmagic": "^0.3.15"
+  }
+}
