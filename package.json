@@ -1,6 +1,6 @@
 {
   "name": "nameless-uploader",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Wrapper for aws s3 upload",
   "main": "index.js",
   "scripts": {
@@ -17,8 +17,8 @@
   },
   "homepage": "https://github.com/spid37/nameless-uploader#readme",
   "dependencies": {
-    "aws-sdk": "^2.2.19",
-    "bluebird": "^3.0.5",
+    "aws-sdk": "^2.2.26",
+    "bluebird": "^3.1.1",
     "mmmagic": "^0.4.1"
   }
 }
